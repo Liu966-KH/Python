@@ -1,10 +1,10 @@
 ## 目錄
 
-基本輸出：print
+* 基本輸出：print
 
   https://github.com/ccsoez/Python/blob/master/Ch3/Page53.ipynb
 
-  print的進階應用
+  * print的進階應用
   
   https://github.com/ccsoez/Python/blob/master/Print.ipynb
 
