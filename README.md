@@ -20,7 +20,7 @@
 
   https://github.com/ccsoez/Python/blob/master/Ch4/Page66~71.ipynb
 
-＊二維陣列與重複結構＊
+* 二維陣列與重複結構＊
 
   https://github.com/ccsoez/Python/blob/master/Ch4/Page72~75*.ipynb
 
