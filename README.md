@@ -6,19 +6,31 @@
 
   * print的進階應用
   
-  https://github.com/ccsoez/Python/blob/master/Print.ipynb
+    https://github.com/ccsoez/Python/blob/master/Print.ipynb
 
-一維陣列
+* 一維陣列
+  
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page61.ipynb
+  
+* 二維陣列＊
 
-二維陣列
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page63*.ipynb
 
-循序結構
+* 循序結構與重複結構（for迴圈、range函數）
 
-重複結構
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page66~71.ipynb
 
-選擇結構
+＊二維陣列與重複結構＊
 
-自定函數
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page72~75*.ipynb
+
+* 選擇結構
+
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page76.ipynb
+
+* 自定函數
+
+  https://github.com/ccsoez/Python/blob/master/Ch4/Page79.ipynb
 
 ## 【為什麼要學Python】
 
